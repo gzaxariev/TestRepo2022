@@ -1,5 +1,3 @@
 test commit
 
-dobaveni novi stoinosti 
-
-i validacii
+dobaveni novi stoinosti
