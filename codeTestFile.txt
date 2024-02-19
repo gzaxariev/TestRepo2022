@@ -1,3 +1,6 @@
 test commit
 
 dobaveni novi stoinosti
+
+
+novi neshta
